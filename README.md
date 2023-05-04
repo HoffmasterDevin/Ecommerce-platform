@@ -18,7 +18,8 @@
   ## Usage
   Run `npm start` to start the server. Using an API tool, make API calls using the routes found in the routes folder to manipulate data.
   ## Demo
-  
+  [Untitled_ May 4, 2023 6_08 PM.webm](https://user-images.githubusercontent.com/118146567/236350377-3251ea99-444a-4fa1-9e71-385ebb46f88d.webm)
+
   ## License
   This application is licenced by [MIT License](https://mit-license.org/)
   ## Questions
